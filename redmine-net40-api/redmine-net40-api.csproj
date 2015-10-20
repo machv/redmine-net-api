@@ -47,6 +47,9 @@
     <Compile Include="..\redmine-net20-api\Types\ChangeSet.cs">
       <Link>Types\ChangeSet.cs</Link>
     </Compile>
+    <Compile Include="..\redmine-net20-api\Types\Contact.cs">
+      <Link>Types\Contact.cs</Link>
+    </Compile>
     <Compile Include="..\redmine-net20-api\Types\CustomField.cs">
       <Link>Types\CustomField.cs</Link>
     </Compile>
